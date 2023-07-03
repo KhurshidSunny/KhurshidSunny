@@ -1,7 +1,7 @@
 - 👋 Hi, I am Khurshid Khan
-- 👀 I’m interested in web Development, app Development, working on different projects
-- 🌱 I’m currently learning MERN Stack Web Development and have learned and worked in HTML, CSS, Bootstrap, JavaScript and React Js. 
-- 💞️ I’m looking to collaborate on on open source projects
+- 👀 A passionate MERN Stack developer with 2 years of experience. I have successfully completed 10+ projects, showcasing my expertise in MERN stack Technologies.
+- 🌱 I am dedicating to delivering high-quality web solutions with focus on clean code and intuitive user experiences. Let's collaborate on your next project and bring your ideas to life
+- 💞️ I’m looking to collaborate on  open source projects
 - 📫 How to reach me : KhurshidSunny45@gmail.com
 
 <!---

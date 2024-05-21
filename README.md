@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Backend: NodeJs and ExpressJs**
 
+- 👨‍💻 visit my portfolio https://khurshid-portfolio.netlify.app/
+
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhurshidSunny](https://github.com/KhurshidSunny)

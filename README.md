@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhurshidSunny](https://github.com/KhurshidSunny)
 
-- 💬 Ask me about **React js, javascritp**
+- 💬 Ask me about **React js, javascript
 
 - 📫 How to reach me **khurshidsunny45@gmail.com**
 

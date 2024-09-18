@@ -6,15 +6,13 @@
 
 - 🔭 I’m currently working on [my own startup Project with my classmate](coming soon)
 
-- 🌱 I’m currently learning **Backend: NodeJs and ExpressJs**
-
 - 👨‍💻 visit my portfolio https://khurshid-portfolio.netlify.app/
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KhurshidSunny](https://github.com/KhurshidSunny)
 
-- 💬 Ask me about **React js, javascript
+- 💬 Ask me about ** MERN stack technologies, JavaScript, TypeScript, C++, python
 
 - 📫 How to reach me **khurshidsunny45@gmail.com**
 

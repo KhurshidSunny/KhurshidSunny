@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khurshidsunny" alt="khurshidsunny" /></a> </p>
 
-- 🔭 I’m currently working on [my own startup Project with my classmate](coming soon)
+
 
 - 👨‍💻 visit my portfolio https://khurshid-portfolio.netlify.app/
 

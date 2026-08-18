@@ -1,86 +1,39 @@
-<h1 align="center">Hi 👋, I'm Khurshid Khan</h1>
-<h3 align="center">Software Engineer and MERN Stack Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khurshidsunny&label=Profile%20views&color=0e75b6&style=flat" alt="khurshidsunny" /> </p>
+# Khurshid Khan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khurshidsunny" alt="khurshidsunny" /></a> </p>
+Software engineer. BS Software Engineering, IMSciences (CGPA 3.78/4.00). IELTS 7.0.
 
+I build systems that make operational decisions a bit more reliable — then document
+what the methods can and cannot do.
 
+**Looking for:** a fully funded Master’s in data, AI, and software systems.
 
-- 👨‍💻 visit my portfolio https://khurshid-portfolio.netlify.app/
+---
 
-- 👯 I’m looking to collaborate on **Open source projects**
+### Work to review first
 
-- 👨‍💻 All of my projects are available at [https://github.com/KhurshidSunny](https://github.com/KhurshidSunny)
+| Project | What it is | Link |
+|---|---|---|
+| **Smart-Chain** | FYP microservices supply-chain MVP (Node.js, MongoDB, RabbitMQ, React). Mentored by Code for Pakistan. Post-FYP analytics: demand forecast (moving average / exponential smoothing), reorder suggestions, z-score anomaly flags, holdout MAE/MAPE. Statistical decision-support — not deep learning, not blockchain, not IoT. | [github.com/KhurshidSunny/smart-chain](https://github.com/KhurshidSunny/smart-chain) |
+| **Daygrain** | Founder. Four live tools at [getdaygrain.com](https://getdaygrain.com): **Focus**, **Decide**, **Colors**, **Data** (in-browser CSV profiler — file never uploaded). | [getdaygrain.com](https://getdaygrain.com) |
 
-- 💬 Ask me about ** MERN stack technologies, JavaScript, TypeScript, C++, python
+Industry: ProductBox (full-stack, healthcare SaaS) · String Technologies (part-time MERN, during FYP).
 
-- 📫 How to reach me **khurshidsunny45@gmail.com**
+---
 
-- 📄 Know about my experiences [https://khurshid-portfolio.netlify.app/](https://khurshid-portfolio.netlify.app/)
+### Stack
 
-- ⚡ Fun fact **I am excited to work on new projects and learn new technology**
+JavaScript, TypeScript, React, Next.js, Node.js, Express, MongoDB, MySQL, RabbitMQ, JWT/RBAC, Git, GitHub Actions, Docker.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://khurshid-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://khurshid-portfolio.netlify.app/" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/khurshid49/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khurshid49/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21993130/khurshid-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21993130/khurshid-khan" height="30" width="40" /></a>
-<a href="https://web.facebook.com/profile.php?id=100008218630838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100008218630838" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/KhurshidKhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/khurshidkhan/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/khurshidsunny45/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/khurshidsunny45/" height="30" width="40" /></a>
-<a href="https://discord.gg/khurshidkhan_52903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="khurshidkhan_52903" height="30" width="40" /></a>
-</p>
+Methods used in projects: moving average, exponential smoothing, z-score, IQR / data-quality checks (browser-side).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" style="background-color: yellow; padding: 5px;"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-</p>
+Python: working knowledge.
 
+---
 
+### Also here
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khurshidsunny&show_icons=true&locale=en&layout=compact" alt="khurshidsunny" /></p>
+Course and practice repos (Wild Oasis, Natours, DSA, early HTML/CSS) stay on this account as a learning record. They are not the work I want a graduate committee to judge first.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khurshidsunny&show_icons=true&locale=en" alt="khurshidsunny" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khurshidsunny&" alt="khurshidsunny" /></p>
+[LinkedIn](https://www.linkedin.com/in/khurshid49/) · [Portfolio](https://khurshid-portfolio.netlify.app/) · khurshidsunny45@gmail.com
